@@ -1,4 +1,4 @@
-NSDate-x-time-ago-24h-Turkce modified version of:
+NSDate-x-time-ago-24h-Turkce (x dakika önce, x saat önce, x gün önce) modified version of:
 ============================
 # Facebook Style Formatting of Dates (Time Ago)
 
